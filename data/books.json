@@ -1,0 +1,32 @@
+[
+    {
+      "id": "4f909a2d-f574-48a3-b1b9-87e2ce6deef7",
+      "name": "Cien anios de soledad",
+      "country": "Colombia",
+      "foundedYear": 1967
+    },
+    {
+      "id": "b7d9d9eb-e612-478d-afb3-dadafbd185de",
+      "name": "Don Quijote de la Mancha",
+      "country": "Spain",
+      "foundedYear": 1605
+    },
+    {
+      "id": "c817b51e-105a-448b-8ae0-15a7ac8ddf07",
+      "name": "tttttt",
+      "country": "rrrrrr",
+      "foundedYear": "rrrrr"
+    },
+    {
+      "id": "64d5a9be-4031-4f51-b940-5c7cdadf7364",
+      "name": "El senior de los anillos",
+      "country": "United Kingdom",
+      "foundedYear": 1954
+    },
+    {
+      "id": "3991f595-73bd-4e63-95bb-735565a3c813",
+      "name": "Matar a un ruisenior",
+      "country": "United States",
+      "foundedYear": 1960
+    }
+  ]

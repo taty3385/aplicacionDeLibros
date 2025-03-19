@@ -1,0 +1,38 @@
+[
+    {
+      "id": "e7921186-08dc-474e-8ef5-ac0fe745a9c0",
+      "name": "Penguin Random House",
+      "country": "United States",
+      "foundedYear": 2013
+    },
+    {
+      "id": "e7921186-08dc-474e-8ef5-ac0fe745a9c1",
+      "name": "HarperCollins",
+      "country": "United States",
+      "foundedYear": 1989
+    },
+    {
+      "id": "e7921186-08dc-474e-8ef5-ac0fe745a9c2",
+      "name": "Simon y Schuster",
+      "country": "United States",
+      "foundedYear": 1924
+    },
+    {
+      "id": "e7921186-08dc-474e-8ef5-ac0fe745a9c3",
+      "name": "Hachette Livre",
+      "country": "France",
+      "foundedYear": 1826
+    },
+    {
+      "id": "e7921186-08dc-474e-8ef5-ac0fe745a9c4",
+      "name": "Macmillan Publishers",
+      "country": "United Kingdom",
+      "foundedYear": 1843
+    },
+    {
+      "id": "cc1e9831-9174-49c7-897c-f03f762f07ff",
+      "name": "vvvvv",
+      "country": "vvvvv",
+      "foundedYear": "vvvv"
+    }
+  ]
