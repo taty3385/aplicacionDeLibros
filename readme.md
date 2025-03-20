@@ -8,7 +8,7 @@ Este proyecto implementa una API para gestionar una biblioteca utilizando un ser
 
 Cuenta con un **menú** interactivo  que permite a los usuarios navegar fácilmente entre las distintas opciones disponibles. Desde la consulta de libros y autores hasta la gestión completa de registros, el sistema ofrece una experiencia fluida y eficiente para la administración de la biblioteca.
 
-![menu ](./img/menu%20libros.png)
+
 
 ## Características
 
@@ -42,7 +42,7 @@ Cuenta con un **menú** interactivo  que permite a los usuarios navegar fácilme
 Al ejecutar npm start, se iniciará el servidor TCP en el puerto 8080 y el cliente TCP se conectará automáticamente. Se mostrará un menú con las siguientes opciones:
 
 
-
+![menu ](./img/menu%20libros.png)
 
 
 
