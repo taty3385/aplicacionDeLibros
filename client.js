@@ -7,7 +7,10 @@ console.log("Conectado al servidor");
 mostrarMenu();
 
 function mostrarMenu() {
-  console.log(`1. Ver libros  
+  console.log(" ==============Menu================");
+  
+  console.log(`
+  1. Ver libros  
   2. Ver autores  
   3. Ver editoriales  
   4. Añadir libro  
