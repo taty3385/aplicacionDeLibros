@@ -1,5 +1,5 @@
-const bookModel = require("../models/booksModels");
-const bookView = require("../views/booksView");
+const bookModel = require("../model/bookModel");
+const bookView = require("../view/booksView");
 
 const bookController = {
   getBooks: () => {
@@ -44,7 +44,7 @@ const bookController = {
     const search = books.find((book) => book.id === id);
 
     if (!search) {
-      return bookView.formatResponse.edit(null, "book");
+      return bookView.formatResponse.edit(null,search, "book");
     } else {
       search.name = newDate.name;
       search.country = newDate.country;

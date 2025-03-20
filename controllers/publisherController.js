@@ -1,5 +1,5 @@
-const bookModel = require("../models/booksModels");
-const bookView = require("../views/booksView");
+const bookModel = require("../model/bookModel");
+const bookView = require("../view/booksView");
 
 const publisherController = {
   getPublisher: () => {
