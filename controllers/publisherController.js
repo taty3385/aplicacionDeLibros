@@ -41,7 +41,7 @@ const publisherController = {
       const publishers= bookModel.read("publisher");
       const search = publishers.find((publisher) => publisher.id === id);
       if (!search) {
-        return bookView.formatResponse.edit(null, "publisher");
+        return bookView.formatResponse.edit(null,search, "publisher");
       } else {
         search.name = newPublisher.name;
         search.country = newPublisher.country;
